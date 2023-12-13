@@ -1,0 +1,7 @@
+City,CountryCode,DateTime,Temperature,Description
+London,GB,2023-12-13 07:02:15,280.9,overcast clouds
+Paris,FR,2023-12-13 06:59:56,281.37,few clouds
+Berlin,DE,2023-12-13 07:00:25,277.75,heavy intensity rain
+Tokyo,JP,2023-12-13 07:00:48,287.74,few clouds
+Sydney,AU,2023-12-13 07:04:02,298.81,clear sky
+New York,US,2023-12-13 06:59:32,276.46,clear sky

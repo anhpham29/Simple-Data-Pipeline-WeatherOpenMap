@@ -1,0 +1,8 @@
+[
+  {"city": "London", "country_code": "GB"},
+  {"city": "Paris", "country_code": "FR"},
+  {"city": "Berlin", "country_code": "DE"},
+  {"city": "Tokyo", "country_code": "JP"},
+  {"city": "Sydney", "country_code": "AU"},
+  {"city": "New York", "country_code": "US"}
+]
